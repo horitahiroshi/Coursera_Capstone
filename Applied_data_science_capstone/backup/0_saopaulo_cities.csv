@@ -1,0 +1,644 @@
+,Mesoregion,Microregion,City,Population,Longitude,Latitude
+0,São José do Rio Preto,Jales,Aparecida d'Oeste,4196,-50.8808706,-20.4498109
+1,São José do Rio Preto,Jales,Aspásia,1822,-50.728046,-20.160028
+2,São José do Rio Preto,Jales,Dirce Reis,1793,-50.606276,-20.4664067
+3,São José do Rio Preto,Jales,Dolcinópolis,2115,-50.513261,-20.1230736
+4,São José do Rio Preto,Jales,Jales,49107,-50.5492435,-20.2671767
+5,São José do Rio Preto,Jales,Marinópolis,2112,-50.8227778,-20.4408333
+6,São José do Rio Preto,Jales,Mesópolis,1908,-50.6190438,-19.9662274
+7,São José do Rio Preto,Jales,Nova Canaã Paulista,1881,-50.9481571,-20.3872473
+8,São José do Rio Preto,Jales,Palmeira d'Oeste,9283,-50.762159,-20.4168187
+9,São José do Rio Preto,Jales,Paranapuã,4078,-50.5858761,-20.1033995
+10,São José do Rio Preto,Jales,Pontalinda,4628,-50.5235329,-20.44071
+11,São José do Rio Preto,Jales,Populina,4169,-50.5372875,-19.9427771
+12,São José do Rio Preto,Jales,Rubineia,3148,-50.9995571,-20.1718325
+13,São José do Rio Preto,Jales,Santa Albertina,6008,-50.7278392,-20.0323485
+14,São José do Rio Preto,Jales,Santa Clara d'Oeste,2115,-50.9263889,-20.0938889
+15,São José do Rio Preto,Jales,Santa Fé do Sul,32322,-50.9270837,-20.2106188
+16,São José do Rio Preto,Jales,Santa Rita d'Oeste,2498,-50.8317569,-20.1448079
+17,São José do Rio Preto,Jales,Santa Salete,1545,-50.6889625,-20.2451795
+18,São José do Rio Preto,Jales,Santana da Ponte Pensa,1487,-50.7975649,-20.2543758
+19,São José do Rio Preto,Jales,São Francisco,2821,-50.696603,-20.3604438
+20,São José do Rio Preto,Jales,Três Fronteiras,5807,-50.890528,-20.234355
+21,São José do Rio Preto,Jales,Urânia,9114,-50.6450868,-20.244491
+22,São José do Rio Preto,Jales,Vitória Brasil,1840,-50.4847947,-20.1978821
+23,São José do Rio Preto,Fernandópolis,Estrela d'Oeste,8419,-50.3986216,-20.2860692
+24,São José do Rio Preto,Fernandópolis,Fernandópolis,69116,-50.2500762,-20.2825647
+25,São José do Rio Preto,Fernandópolis,Guarani d'Oeste,2000,-50.3379634,-20.0737613
+26,São José do Rio Preto,Fernandópolis,Indiaporã,3897,-50.2906035,-19.9802644
+27,São José do Rio Preto,Fernandópolis,Macedônia,3698,-50.193911,-20.1454034
+28,São José do Rio Preto,Fernandópolis,Meridiano,3836,-50.172574,-20.3547223
+29,São José do Rio Preto,Fernandópolis,Mira Estrela,3086,-50.136873,-19.9806298
+30,São José do Rio Preto,Fernandópolis,Ouroeste,10361,-50.3736414,-20.0013584
+31,São José do Rio Preto,Fernandópolis,Pedranópolis,2494,-50.1102463,-20.249177
+32,São José do Rio Preto,Fernandópolis,São João das Duas Pontes,2568,-50.378858,-20.3878223
+33,São José do Rio Preto,Fernandópolis,Turmalina,1727,-50.4763212,-20.0530658
+34,São José do Rio Preto,Votuporanga,Álvares Florence,3679,-49.9085255,-20.3205523
+35,São José do Rio Preto,Votuporanga,Américo de Campos,5969,-49.735904,-20.298476
+36,São José do Rio Preto,Votuporanga,Cardoso,12326,-49.9139767,-20.080447
+37,São José do Rio Preto,Votuporanga,Cosmorama,7307,-49.7787881,-20.47705
+38,São José do Rio Preto,Votuporanga,Parisi,2161,-50.0135808,-20.3039424
+39,São José do Rio Preto,Votuporanga,Pontes Gestal,2577,-49.7031406,-20.1833464
+40,São José do Rio Preto,Votuporanga,Riolândia,12518,-49.6814309,-19.980944
+41,São José do Rio Preto,Votuporanga,Valentim Gentil,13326,-50.0861511,-20.4226107
+42,São José do Rio Preto,Votuporanga,Votuporanga,94547,-49.972028,-20.4252908
+43,São José do Rio Preto,São José do Rio Preto,Adolfo,3562,-49.6441918,-21.2356597
+44,São José do Rio Preto,São José do Rio Preto,Altair,4160,-49.0606135,-20.5238955
+45,São José do Rio Preto,São José do Rio Preto,Bady Bassitt,17502,-49.4517911,-20.9178969
+46,São José do Rio Preto,São José do Rio Preto,Bálsamo,9068,-49.5807484,-20.7343722
+47,São José do Rio Preto,São José do Rio Preto,Cedral,9237,-49.2699665,-20.9028433
+48,São José do Rio Preto,São José do Rio Preto,Guapiaçu,21454,-49.2253917,-20.79663
+49,São José do Rio Preto,São José do Rio Preto,Guaraci,11188,-48.9452074,-20.4976771
+50,São José do Rio Preto,São José do Rio Preto,Ibirá,12393,-49.2424619,-21.0815104
+51,São José do Rio Preto,São José do Rio Preto,Icém,8243,-49.1970982,-20.3413103
+52,São José do Rio Preto,São José do Rio Preto,Ipiguá,5392,-49.3881146,-20.657282
+53,São José do Rio Preto,São José do Rio Preto,Jaci,7067,-49.5710544,-20.8844434
+54,São José do Rio Preto,São José do Rio Preto,José Bonifácio,37015,-46.434766582997995,-23.564090999999998
+55,São José do Rio Preto,São José do Rio Preto,Mendonça,5490,-49.579059,-21.1838813
+56,São José do Rio Preto,São José do Rio Preto,Mirassol,59824,-49.507449,-20.8141411
+57,São José do Rio Preto,São José do Rio Preto,Mirassolândia,4871,-49.462817,-20.6147204
+58,São José do Rio Preto,São José do Rio Preto,Nova Aliança,6973,-49.4981128,-21.0163728
+59,São José do Rio Preto,São José do Rio Preto,Nova Granada,21500,-49.3186951,-20.5345426
+60,São José do Rio Preto,São José do Rio Preto,Olímpia,54772,-48.910625,-20.736634
+61,São José do Rio Preto,São José do Rio Preto,Onda Verde,4381,-49.2950997,-20.6071428
+62,São José do Rio Preto,São José do Rio Preto,Orindiúva,7066,-49.3508333,-20.1819444
+63,São José do Rio Preto,São José do Rio Preto,Palestina,12957,-49.4320384,-20.389344
+64,São José do Rio Preto,São José do Rio Preto,Paulo de Faria,8945,-49.3998592,-20.029593
+65,São José do Rio Preto,São José do Rio Preto,Planalto,5237,-49.9286556,-21.0342886
+66,São José do Rio Preto,São José do Rio Preto,Potirendaba,17361,-49.3767154,-21.0457369
+67,São José do Rio Preto,São José do Rio Preto,São José do Rio Preto,460671,-49.3804212,-20.8125851
+68,São José do Rio Preto,São José do Rio Preto,Tanabi,25967,-49.6519879,-20.6251635
+69,São José do Rio Preto,São José do Rio Preto,Ubarana,6309,-49.7167796,-21.1637674
+70,São José do Rio Preto,São José do Rio Preto,Uchoa,10110,-49.171295,-20.951106
+71,São José do Rio Preto,São José do Rio Preto,Zacarias,2718,-50.0508333,-21.0519444
+72,São José do Rio Preto,Catanduva,Ariranha,9668,-48.790418,-21.18716
+73,São José do Rio Preto,Catanduva,Cajobi,10542,-48.8106972,-20.8776238
+74,São José do Rio Preto,Catanduva,Catanduva,121862,-48.9712817,-21.1331035
+75,São José do Rio Preto,Catanduva,Catiguá,7804,-49.0578923,-21.0491485
+76,São José do Rio Preto,Catanduva,Elisiário,3651,-49.1111015,-21.1673392
+77,São José do Rio Preto,Catanduva,Embaúba,2452,-48.837455,-20.9819513
+78,São José do Rio Preto,Catanduva,Novais,5830,-48.9188283,-20.9941576
+79,São José do Rio Preto,Catanduva,Palmares Paulista,13275,-48.803656,-21.085369
+80,São José do Rio Preto,Catanduva,Paraíso,6454,-48.776105,-21.015911
+81,São José do Rio Preto,Catanduva,Pindorama,17049,-49.0232348,-21.9549806
+82,São José do Rio Preto,Catanduva,Santa Adélia,15480,-48.8061481,-21.2432992
+83,São José do Rio Preto,Catanduva,Severínia,17496,-48.80538,-20.810753
+84,São José do Rio Preto,Catanduva,Tabapuã,12407,-49.0332398,-20.9648397
+85,São José do Rio Preto,Auriflama,Auriflama,15189,-50.5554616,-20.6840418
+86,São José do Rio Preto,Auriflama,Floreal,2917,-50.1455638,-20.6767063
+87,São José do Rio Preto,Auriflama,Gastão Vidigal,4808,-50.1907615,-20.7956829
+88,São José do Rio Preto,Auriflama,General Salgado,10869,-50.3608101,-20.6488139
+89,São José do Rio Preto,Auriflama,Guzolândia,5267,-50.6622974,-20.6491637
+90,São José do Rio Preto,Auriflama,Magda,3119,-50.2260983,-20.6444651
+91,São José do Rio Preto,Auriflama,Nova Castilho,1267,-50.3427479,-20.7638386
+92,São José do Rio Preto,Auriflama,Nova Luzitânia,4101,-50.2619444,-20.8558333
+93,São José do Rio Preto,Auriflama,São João de Iracema,1922,-50.352595,-20.5134345
+94,São José do Rio Preto,Nhandeara,Macaubal,8120,-49.9648439,-20.8071616
+95,São José do Rio Preto,Nhandeara,Monções,2259,-50.097537,-20.850949
+96,São José do Rio Preto,Nhandeara,Monte Aprazível,25087,-49.7088402,-20.7625702
+97,São José do Rio Preto,Nhandeara,Neves Paulista,8930,-49.635767,-20.842992
+98,São José do Rio Preto,Nhandeara,Nhandeara,11478,-50.0406162,-20.6942747
+99,São José do Rio Preto,Nhandeara,Nipoã,5213,-49.7791476,-20.9126469
+100,São José do Rio Preto,Nhandeara,Poloni,6059,-49.8149752,-20.7836955
+101,São José do Rio Preto,Nhandeara,Sebastianópolis do Sul,3513,-49.9229043,-20.6581669
+102,São José do Rio Preto,Nhandeara,União Paulista,1844,-49.8986804,-20.8878168
+103,São José do Rio Preto,Novo Horizonte,Irapuã,7993,-49.4101967,-21.2791964
+104,São José do Rio Preto,Novo Horizonte,Itajobi,15262,-49.0596336,-21.312294
+105,São José do Rio Preto,Novo Horizonte,Marapoama,3031,-49.1314719,-21.2574769
+106,São José do Rio Preto,Novo Horizonte,Novo Horizonte,41052,-49.2235377,-21.4674564
+107,São José do Rio Preto,Novo Horizonte,Sales,6331,-49.4999228,-21.3418263
+108,São José do Rio Preto,Novo Horizonte,Urupês,13809,-49.2921996,-21.2027026
+109,Ribeirão Preto,Barretos,Barretos,122098,-48.5697509,-20.5531437
+110,Ribeirão Preto,Barretos,Colina,18468,-48.53867,-20.711443
+111,Ribeirão Preto,Barretos,Colômbia,6210,-48.6872822,-20.1774291
+112,Ribeirão Preto,São Joaquim da Barra,Guaíra,40790,-48.3148818,-20.3245873
+113,Ribeirão Preto,São Joaquim da Barra,Ipuã,16409,-48.012504,-20.4441839
+114,Ribeirão Preto,São Joaquim da Barra,Jaborandi,6929,-48.4144076,-20.6921079
+115,Ribeirão Preto,São Joaquim da Barra,Miguelópolis,22226,-48.030997,-20.179612
+116,Ribeirão Preto,São Joaquim da Barra,Morro Agudo,32968,-48.052795,-20.7276692
+117,Ribeirão Preto,São Joaquim da Barra,Nuporanga,7432,-47.7522561,-20.730877
+118,Ribeirão Preto,São Joaquim da Barra,Orlândia,44028,-47.886667,-20.720278
+119,Ribeirão Preto,São Joaquim da Barra,Sales Oliveira,11890,-47.836873,-20.769612
+120,Ribeirão Preto,São Joaquim da Barra,São Joaquim da Barra,51888,-47.8608238,-20.5814993
+121,Ribeirão Preto,Ituverava,Aramina,5620,-47.789201,-20.0876144
+122,Ribeirão Preto,Ituverava,Buritizal,4481,-47.7097165,-20.1933264
+123,Ribeirão Preto,Ituverava,Guará,21220,-47.8250067,-20.4290496
+124,Ribeirão Preto,Ituverava,Igarapava,30432,-47.7477444,-20.0411471
+125,Ribeirão Preto,Ituverava,Ituverava,41824,-47.7797924,-20.3366604
+126,Ribeirão Preto,Franca,Cristais Paulista,8631,-47.420915,-20.403569
+127,Ribeirão Preto,Franca,Franca,353187,-47.4009795,-20.5381768
+128,Ribeirão Preto,Franca,Itirapuã,6499,-47.2193817,-20.6406814
+129,Ribeirão Preto,Franca,Jeriquara,3159,-47.5915669,-20.3104773
+130,Ribeirão Preto,Franca,Patrocínio Paulista,14670,-47.2801241,-20.6383609
+131,Ribeirão Preto,Franca,Pedregulho,16744,-47.4808786,-20.25071
+132,Ribeirão Preto,Franca,Restinga,7593,-47.483254,-20.605593
+133,Ribeirão Preto,Franca,Ribeirão Corrente,4718,-47.590394,-20.457872
+134,Ribeirão Preto,Franca,Rifaina,3629,-47.429109,-20.080256
+135,Ribeirão Preto,Franca,São José da Bela Vista,8928,-47.6416942,-20.5934194
+136,Ribeirão Preto,Jaboticabal,Bebedouro,77496,-48.479083,-20.949077
+137,Ribeirão Preto,Jaboticabal,Cândido Rodrigues,2793,-48.6308798,-21.3255615
+138,Ribeirão Preto,Jaboticabal,Fernando Prestes,5783,-48.687384,-21.266061
+139,Ribeirão Preto,Jaboticabal,Guariba,40105,-48.23158,-21.35938
+140,Ribeirão Preto,Jaboticabal,Jaboticabal,77263,-48.325223,-21.252037
+141,Ribeirão Preto,Jaboticabal,Monte Alto,50498,-48.497066,-21.265545
+142,Ribeirão Preto,Jaboticabal,Monte Azul Paulista,19008,-48.638717,-20.90649
+143,Ribeirão Preto,Jaboticabal,Pirangi,11417,-48.6740537,-21.0984037
+144,Ribeirão Preto,Jaboticabal,Pitangueiras,39719,-48.220951,-21.013203
+145,Ribeirão Preto,Jaboticabal,Santa Ernestina,5599,-48.3912139,-21.4634463
+146,Ribeirão Preto,Jaboticabal,Taiaçu,6295,-48.511203,-21.143144
+147,Ribeirão Preto,Jaboticabal,Taiuva,5566,-48.4512476,-21.1238184
+148,Ribeirão Preto,Jaboticabal,Taquaral,2811,-48.412553,-21.07373
+149,Ribeirão Preto,Jaboticabal,Taquaritinga,57177,-48.5054848,-21.407486
+150,Ribeirão Preto,Jaboticabal,Terra Roxa,9370,-48.331442,-20.787015
+151,Ribeirão Preto,Jaboticabal,Viradouro,18898,-48.2968122,-20.8726051
+152,Ribeirão Preto,Jaboticabal,Vista Alegre do Alto,8810,-48.6299172,-21.171293
+153,Ribeirão Preto,Ribeirão Preto,Barrinha,32812,-48.1550642,-21.1898849
+154,Ribeirão Preto,Ribeirão Preto,Brodowski,24939,-47.657217,-20.984532
+155,Ribeirão Preto,Ribeirão Preto,Cravinhos,35292,-47.729444,-21.340278
+156,Ribeirão Preto,Ribeirão Preto,Dumont,9868,-47.9747665,-21.2391417
+157,Ribeirão Preto,Ribeirão Preto,Guatapará,7656,-48.0360685,-21.496092
+158,Ribeirão Preto,Ribeirão Preto,Jardinópolis,44380,-47.7706807,-21.0255126
+159,Ribeirão Preto,Ribeirão Preto,Luiz Antônio,14947,-47.7033894,-21.552463
+160,Ribeirão Preto,Ribeirão Preto,Pontal,49961,-48.0393457,-21.0239714
+161,Ribeirão Preto,Ribeirão Preto,Pradópolis,21496,-48.0746603,-21.3597815
+162,Ribeirão Preto,Ribeirão Preto,Ribeirão Preto,703293,-47.8066671,-21.178333
+163,Ribeirão Preto,Ribeirão Preto,Santa Rita do Passa Quatro,27557,-47.4777943,-21.7103738
+164,Ribeirão Preto,Ribeirão Preto,Santa Rosa de Viterbo,26540,-47.3654908,-21.4869452
+165,Ribeirão Preto,Ribeirão Preto,São Simão,15322,-47.5531095,-21.4800208
+166,Ribeirão Preto,Ribeirão Preto,Serra Azul,14662,-47.5635821,-21.3132591
+167,Ribeirão Preto,Ribeirão Preto,Serrana,45107,-47.6053774,-21.2066883
+168,Ribeirão Preto,Ribeirão Preto,Sertãozinho,125815,-47.9913741,-21.1375782
+169,Ribeirão Preto,Batatais,Altinópolis,16184,-47.3712,-21.021364
+170,Ribeirão Preto,Batatais,Batatais,62508,-47.592149,-20.892867
+171,Ribeirão Preto,Batatais,Cajuru,26167,-47.3046035,-21.2759978
+172,Ribeirão Preto,Batatais,Cássia dos Coqueiros,2523,-47.164327,-21.280082
+173,Ribeirão Preto,Batatais,Santa Cruz da Esperança,2139,-47.4309885,-21.2918648
+174,Ribeirão Preto,Batatais,Santo Antônio da Alegria,6929,-47.1523426,-21.0893048
+175,Araçatuba,Andradina,Andradina,57157,-51.3742765,-20.896505
+176,Araçatuba,Andradina,Castilho,21006,-51.4877792,-20.8695636
+177,Araçatuba,Andradina,Guaraçaí,8323,-51.2064201,-21.031027
+178,Araçatuba,Andradina,Ilha Solteira,26686,-51.3410871,-20.4281001
+179,Araçatuba,Andradina,Itapura,4906,-51.5084479,-20.6435211
+180,Araçatuba,Andradina,Mirandópolis,29564,-51.1029422,-21.1328313
+181,Araçatuba,Andradina,Murutinga do Sul,4486,-51.2782237,-20.9913722
+182,Araçatuba,Andradina,Nova Independência,3969,-51.4910804,-21.1066536
+183,Araçatuba,Andradina,Pereira Barreto,25669,-51.1052172,-20.6378509
+184,Araçatuba,Andradina,Sud Mennucci,7718,-50.9240834,-20.6906175
+185,Araçatuba,Andradina,Suzanápolis,3963,-51.0246771,-20.5011185
+186,Araçatuba,Araçatuba,Araçatuba,197016,-50.4390225,-21.207992
+187,Araçatuba,Araçatuba,Bento de Abreu,2980,-50.8120444,-21.2707225
+188,Araçatuba,Araçatuba,Guararapes,32939,-50.6441746,-21.2537115
+189,Araçatuba,Araçatuba,Lavínia,11980,-51.0434733,-21.1676933
+190,Araçatuba,Araçatuba,Rubiácea,3128,-50.7298698,-21.2996334
+191,Araçatuba,Araçatuba,Santo Antônio do Aracanguá,8420,-50.4953504,-20.9354866
+192,Araçatuba,Araçatuba,Valparaíso,26480,-50.8669778,-21.2237832
+193,Araçatuba,Birigui,Alto Alegre,4099,-50.1661976,-21.5820592
+194,Araçatuba,Birigui,Avanhandava,13649,-49.9465156,-21.4603331
+195,Araçatuba,Birigui,Barbosa,7402,-49.951816,-21.265661
+196,Araçatuba,Birigui,Bilac,8034,-50.47464,-21.403962
+197,Araçatuba,Birigui,Birigui,123638,-50.34144,-21.2908491
+198,Araçatuba,Birigui,Braúna,5686,-50.3175246,-21.5015319
+199,Araçatuba,Birigui,Brejo Alegre,2865,-50.1850393,-21.1671191
+200,Araçatuba,Birigui,Buritama,17144,-50.1448077,-21.0664017
+201,Araçatuba,Birigui,Clementina,8617,-50.448624,-21.5594631
+202,Araçatuba,Birigui,Coroados,6058,-50.2853589,-21.3554634
+203,Araçatuba,Birigui,Gabriel Monteiro,2776,-50.5533059,-21.5299436
+204,Araçatuba,Birigui,Glicério,4815,-50.2100452,-21.3814805
+205,Araçatuba,Birigui,Lourdes,2289,-50.224966,-20.9672545
+206,Araçatuba,Birigui,Luiziânia,5790,-50.3269863,-21.6763356
+207,Araçatuba,Birigui,Penápolis,63407,-50.0765588,-21.4192406
+208,Araçatuba,Birigui,Piacatu,5980,-50.5972241,-21.5901744
+209,Araçatuba,Birigui,Santópolis do Aguapeí,4777,-50.5008527,-21.6379556
+210,Araçatuba,Birigui,Turiúba,2016,-50.1082011,-20.9491284
+211,Bauru,Lins,Cafelândia,17767,-49.6030627,-21.8054355
+212,Bauru,Lins,Getulina,11409,-49.9288096,-21.7988557
+213,Bauru,Lins,Guaiçara,12168,-49.801287,-21.619537
+214,Bauru,Lins,Guaimbê,5765,-49.89861,-21.909072
+215,Bauru,Lins,Júlio Mesquita,4776,-49.7889446,-22.0099839
+216,Bauru,Lins,Lins,78013,-49.7518932,-21.6741873
+217,Bauru,Lins,Promissão,40432,-49.8574709,-21.5404913
+218,Bauru,Lins,Sabino,5590,-49.5776811,-21.4598472
+219,Bauru,Bauru,Agudos,37214,-48.987822,-22.471162
+220,Bauru,Bauru,Arealva,8560,-48.9111936,-22.0301906
+221,Bauru,Bauru,Areiópolis,11129,-48.6673653,-22.6758064
+222,Bauru,Bauru,Avaí,5403,-49.3316395,-22.1564662
+223,Bauru,Bauru,Balbinos,5735,-49.3583966,-21.9006253
+224,Bauru,Bauru,Bauru,376818,-49.0705863,-22.3218102
+225,Bauru,Bauru,Borebi,2653,-48.9714871,-22.5700178
+226,Bauru,Bauru,Cabrália Paulista,4264,-49.3385645,-22.4562909
+227,Bauru,Bauru,Duartina,12445,-49.408355,-22.414562
+228,Bauru,Bauru,Guarantã,6664,-49.590107,-21.8950705
+229,Bauru,Bauru,Iacanga,11710,-49.0226082,-21.8928341
+230,Bauru,Bauru,Lençóis Paulista,68432,-48.8031367,-22.6029897
+231,Bauru,Bauru,Lucianópolis,2394,-49.5219241,-22.4310459
+232,Bauru,Bauru,Paulistânia,1833,-49.4028157,-22.5769873
+233,Bauru,Bauru,Pirajuí,25492,-49.4549675,-21.9957877
+234,Bauru,Bauru,Piratininga,13636,-49.1351479,-22.4136363
+235,Bauru,Bauru,Pongaí,3416,-49.3584449,-21.7379814
+236,Bauru,Bauru,Presidente Alves,4094,-49.438133,-22.09991
+237,Bauru,Bauru,Reginópolis,9621,-49.22273,-21.8884118
+238,Bauru,Bauru,Ubirajara,4780,-49.6635412,-22.5261054
+239,Bauru,Bauru,Uru,1165,-49.2819702,-21.7846064
+240,Bauru,Jaú,Bariri,35264,-48.7394852,-22.0746355
+241,Bauru,Jaú,Barra Bonita,36126,-48.558349,-22.490859
+242,Bauru,Jaú,Bocaina,12329,-48.522276,-22.1421831
+243,Bauru,Jaú,Boraceia,4823,-48.7801925,-22.195355
+244,Bauru,Jaú,Dois Córregos,27315,-48.3845315,-22.3697554
+245,Bauru,Jaú,Igaraçu do Tietê,24674,-48.559672,-22.509044
+246,Bauru,Jaú,Itaju,3835,-48.8046536,-21.9816841
+247,Bauru,Jaú,Itapuí,13992,-48.7189744,-22.2346755
+248,Bauru,Jaú,Jaú,150252,-48.559193,-22.293585
+249,Bauru,Jaú,Macatuba,17163,-48.710229,-22.50022
+250,Bauru,Jaú,Mineiros do Tietê,12908,-48.450554,-22.4133188
+251,Bauru,Jaú,Pederneiras,46687,-48.778113,-22.351086
+252,Bauru,Avaré,Águas de Santa Bárbara,6075,-49.2383956,-22.8821912
+253,Bauru,Avaré,Arandu,6357,-49.0545651,-23.1345103
+254,Bauru,Avaré,Avaré,90655,-48.9259103,-23.1045215
+255,Bauru,Avaré,Cerqueira César,19985,-49.1650519,-23.0353135
+256,Bauru,Avaré,Iaras,9240,-49.1593923,-22.8742567
+257,Bauru,Avaré,Itaí,27125,-49.0935788,-23.4172598
+258,Bauru,Avaré,Itatinga,20697,-48.6134874,-23.1042417
+259,Bauru,Avaré,Paranapanema,20197,-48.720868,-23.390161
+260,Bauru,Botucatu,Anhembi,6724,-48.1316776,-22.7891096
+261,Bauru,Botucatu,Bofete,11730,-48.2610535,-23.1019554
+262,Bauru,Botucatu,Botucatu,146497,-48.4410712,-22.8879628
+263,Bauru,Botucatu,Conchas,17896,-48.0077595,-23.0133538
+264,Bauru,Botucatu,Pardinho,6435,-48.3768158,-23.0806795
+265,Bauru,Botucatu,Pratânia,5261,-48.6656779,-22.809027
+266,Bauru,Botucatu,São Manuel,40954,-48.572316,-22.732081
+267,Araraquara,Araraquara,Américo Brasiliense,40504,-48.1052092,-21.7297099
+268,Araraquara,Araraquara,Araraquara,236072,-48.1773096,-21.7886713
+269,Araraquara,Araraquara,Boa Esperança do Sul,14923,-48.3917372,-21.9930206
+270,Araraquara,Araraquara,Borborema,16046,-49.074135,-21.6212706
+271,Araraquara,Araraquara,Dobrada,8929,-48.3938897,-21.5180904
+272,Araraquara,Araraquara,Gavião Peixoto,4789,-48.492853,-21.8377536
+273,Araraquara,Araraquara,Ibitinga,60033,-48.831903,-21.75623
+274,Araraquara,Araraquara,Itápolis,43120,-48.8122696,-21.5958368
+275,Araraquara,Araraquara,Matão,83170,-48.3660603,-21.6033611
+276,Araraquara,Araraquara,Motuca,4758,-48.1503832,-21.5095864
+277,Araraquara,Araraquara,Nova Europa,11186,-48.5661712,-21.7808203
+278,Araraquara,Araraquara,Rincão,10799,-48.0724258,-21.5881095
+279,Araraquara,Araraquara,Santa Lúcia,8817,-48.0836814,-21.6861811
+280,Araraquara,Araraquara,Tabatinga,16496,-48.6880522,-21.7373768
+281,Araraquara,Araraquara,Trabiju,1724,-48.3350302,-22.0410733
+282,Araraquara,São Carlos,Analândia,4995,-47.661939,-22.128917
+283,Araraquara,São Carlos,Descalvado,33718,-47.6203241,-21.9090404
+284,Araraquara,São Carlos,Dourado,8873,-48.3151079,-22.1124638
+285,Araraquara,São Carlos,Ibaté,35104,-47.9989614,-21.9554092
+286,Araraquara,São Carlos,Ribeirão Bonito,13219,-48.1781765,-22.0692867
+287,Araraquara,São Carlos,São Carlos,251983,-47.890932,-22.0183367
+288,Piracicaba,Rio Claro,Brotas,24403,-48.1267265,-22.2840884
+289,Piracicaba,Rio Claro,Corumbataí,4055,-47.6249638,-22.2210521
+290,Piracicaba,Rio Claro,Ipeúna,7546,-47.7146714,-22.4356582
+291,Piracicaba,Rio Claro,Itirapina,18157,-47.8212546,-22.2536514
+292,Piracicaba,Rio Claro,Rio Claro,206424,-47.5603933,-22.4100108
+293,Piracicaba,Rio Claro,Torrinha,10010,-48.1690653,-22.4302536
+294,Piracicaba,Limeira,Araras,134236,-47.3838889,-22.3569477
+295,Piracicaba,Limeira,Conchal,28050,-47.172927,-22.337512
+296,Piracicaba,Limeira,Cordeirópolis,24528,-47.4550551,-22.4768324
+297,Piracicaba,Limeira,Iracemápolis,24235,-47.522963,-22.583234
+298,Piracicaba,Limeira,Leme,103391,-47.39,-22.185833
+299,Piracicaba,Limeira,Limeira,306114,-47.401766,-22.5615068
+300,Piracicaba,Limeira,Santa Cruz da Conceição,4503,-47.4555647,-22.1378975
+301,Piracicaba,Limeira,Santa Gertrudes,26898,-47.532034,-22.4590897
+302,Piracicaba,Piracicaba,Águas de São Pedro,3451,-47.8750887,-22.6000681
+303,Piracicaba,Piracicaba,Capivari,55768,-47.5025742,-22.9998994
+304,Piracicaba,Piracicaba,Charqueada,17190,-47.775468,-22.50958
+305,Piracicaba,Piracicaba,Jumirim,3367,-47.7882279,-23.0843839
+306,Piracicaba,Piracicaba,Mombuca,3493,-47.5650724,-22.9293093
+307,Piracicaba,Piracicaba,Piracicaba,404142,-47.64917,-22.72528
+308,Piracicaba,Piracicaba,Rafard,9076,-47.5275705,-23.0152553
+309,Piracicaba,Piracicaba,Rio das Pedras,35228,-47.6065667,-22.8441256
+310,Piracicaba,Piracicaba,Saltinho,8286,-47.675489,-22.8446614
+311,Piracicaba,Piracicaba,Santa Maria da Serra,6173,-48.157095,-22.5691072
+312,Piracicaba,Piracicaba,São Pedro,35653,-47.9072359,-22.5512765
+313,Piracicaba,Piracicaba,Tietê,42076,-47.7147937,-23.1030302
+314,Campinas,Pirassununga,Aguaí,36305,-46.979384,-22.0592036
+315,Campinas,Pirassununga,Pirassununga,76409,-47.4280861,-21.9980468
+316,Campinas,Pirassununga,Porto Ferreira,56150,-47.4794943,-21.8529134
+317,Campinas,Pirassununga,Santa Cruz das Palmeiras,34361,-47.248023,-21.823475
+318,Campinas,São João da Boa Vista,Águas da Prata,8180,-46.7192121,-21.9464285
+319,Campinas,São João da Boa Vista,Caconde,18985,-46.643659,-21.527995
+320,Campinas,São João da Boa Vista,Casa Branca,30380,-47.0852175,-21.7743137
+321,Campinas,São João da Boa Vista,Divinolândia,11146,-46.7371151,-21.6604584
+322,Campinas,São João da Boa Vista,Espírito Santo do Pinhal,44330,-46.74767,-22.190871
+323,Campinas,São João da Boa Vista,Itobi,7841,-46.9743,-21.730853
+324,Campinas,São João da Boa Vista,Mococa,68885,-47.002405,-21.464731
+325,Campinas,São João da Boa Vista,Santo Antônio do Jardim,5954,-46.6839541,-22.1158536
+326,Campinas,São João da Boa Vista,São João da Boa Vista,91211,-46.7881722,-21.9778137
+327,Campinas,São João da Boa Vista,São José do Rio Pardo,54946,-46.887303,-21.595288
+328,Campinas,São João da Boa Vista,São Sebastião da Grama,12182,-46.8284162,-21.7118854
+329,Campinas,São João da Boa Vista,Tambaú,23207,-47.270344,-21.70292
+330,Campinas,São João da Boa Vista,Tapiratiba,12960,-46.7493221,-21.46824
+331,Campinas,São João da Boa Vista,Vargem Grande do Sul,42845,-46.891286,-21.832194
+332,Campinas,Mogi Mirim,Artur Nogueira,54408,-47.172679,-22.572737
+333,Campinas,Mogi Mirim,Engenheiro Coelho,20773,-47.2119005,-22.4896659
+334,Campinas,Mogi Mirim,Estiva Gerbi,11304,-46.9525448,-22.2754831
+335,Campinas,Mogi Mirim,Itapira,74773,-46.821667,-22.436111
+336,Campinas,Mogi Mirim,Mogi Guaçu,151888,-46.9425,-22.372222
+337,Campinas,Mogi Mirim,Mogi Mirim,93189,-46.9581629,-22.433009
+338,Campinas,Mogi Mirim,Santo Antônio de Posse,23310,-46.9210727,-22.6054087
+339,Campinas,Campinas,Americana,239597,-47.3306032,-22.7392463
+340,Campinas,Campinas,Campinas,1204073,-47.06083,-22.90556
+341,Campinas,Campinas,Cosmópolis,72252,-47.1972086,-22.6437398
+342,Campinas,Campinas,Elias Fausto,17772,-47.3718002,-23.0416538
+343,Campinas,Campinas,Holambra,14930,-47.0545305,-22.6332028
+344,Campinas,Campinas,Hortolândia,230851,-47.22,-22.85833
+345,Campinas,Campinas,Indaiatuba,251627,-47.21806,-23.09028
+346,Campinas,Campinas,Jaguariúna,57488,-46.985062,-22.70374
+347,Campinas,Campinas,Monte Mor,59772,-47.312182,-22.945043
+348,Campinas,Campinas,Nova Odessa,60174,-47.294059,-22.783186
+349,Campinas,Campinas,Paulínia,109424,-47.1532213,-22.7630391
+350,Campinas,Campinas,Pedreira,47919,-46.894846,-22.741347
+351,Campinas,Campinas,Santa Bárbara d'Oeste,193475,-47.4144958,-22.7552511
+352,Campinas,Campinas,Sumaré,282441,-47.267105,-22.8217964
+353,Campinas,Campinas,Valinhos,129193,-46.99583,-22.97056
+354,Campinas,Campinas,Vinhedo,78728,-46.9749847,-23.0298535
+355,Campinas,Amparo,Águas de Lindóia,18705,-46.6291034,-22.4718855
+356,Campinas,Amparo,Amparo,72195,-46.76444,-22.70111
+357,Campinas,Amparo,Lindoia,7980,-46.65,-22.523056
+358,Campinas,Amparo,Monte Alegre do Sul,8038,-46.6798783,-22.681861
+359,Campinas,Amparo,Pedra Bela,6093,-46.4431811,-22.7950193
+360,Campinas,Amparo,Pinhalzinho,15207,-46.5901718,-22.7824349
+361,Campinas,Amparo,Serra Negra,29229,-46.70056,-22.61222
+362,Campinas,Amparo,Socorro,41005,-46.5249112,-22.5902619
+363,Presidente Prudente,Dracena,Dracena,46793,-51.5334408,-21.4835523
+364,Presidente Prudente,Dracena,Junqueirópolis,20679,-51.4351505,-21.5109531
+365,Presidente Prudente,Dracena,Monte Castelo,4166,-51.5686963,-21.3006353
+366,Presidente Prudente,Dracena,Nova Guataporanga,2316,-51.6465874,-21.3330061
+367,Presidente Prudente,Dracena,Ouro Verde,8562,-51.7025981,-21.4892638
+368,Presidente Prudente,Dracena,Panorama,15777,-51.8572739,-21.3612672
+369,Presidente Prudente,Dracena,Paulicéia,7366,-51.8316259,-21.3143975
+370,Presidente Prudente,Dracena,Santa Mercedes,2939,-51.7534,-21.3513258
+371,Presidente Prudente,Dracena,São João do Pau-d'Alho,2105,-51.6654978,-21.2701055
+372,Presidente Prudente,Dracena,Tupi Paulista,15495,-51.5761284,-21.3861914
+373,Presidente Prudente,Adamantina,Adamantina,35068,-51.0762975,-21.6866517
+374,Presidente Prudente,Adamantina,Flora Rica,1464,-51.3804532,-21.6760063
+375,Presidente Prudente,Adamantina,Flórida Paulista,14640,-51.1729548,-21.614061
+376,Presidente Prudente,Adamantina,Inúbia Paulista,3991,-50.9614046,-21.7705076
+377,Presidente Prudente,Adamantina,Irapuru,8294,-51.3494606,-21.5691828
+378,Presidente Prudente,Adamantina,Lucélia,21747,-51.0188,-21.7211293
+379,Presidente Prudente,Adamantina,Mariápolis,4084,-51.1831475,-21.7966708
+380,Presidente Prudente,Adamantina,Osvaldo Cruz,32879,-50.879119,-21.7962773
+381,Presidente Prudente,Adamantina,Pacaembu,14197,-51.2633114,-21.566243
+382,Presidente Prudente,Adamantina,Parapuã,10964,-50.7922396,-21.781309
+383,Presidente Prudente,Adamantina,Pracinha,4093,-51.0862052,-21.8537103
+384,Presidente Prudente,Adamantina,Rinópolis,9981,-50.7226134,-21.728308
+385,Presidente Prudente,Adamantina,Sagres,2432,-50.9574608,-21.8840628
+386,Presidente Prudente,Adamantina,Salmourão,5300,-50.8605656,-21.625096
+387,Presidente Prudente,Presidente Prudente,Alfredo Marcondes,4166,-51.413956,-21.9527
+388,Presidente Prudente,Presidente Prudente,Álvares Machado,24915,-51.47224,-22.076415
+389,Presidente Prudente,Presidente Prudente,Anhumas,4115,-51.3873401,-22.2956478
+390,Presidente Prudente,Presidente Prudente,Caiabu,4191,-51.2356597,-22.0143038
+391,Presidente Prudente,Presidente Prudente,Caiuá,5874,-51.9887179,-21.8319357
+392,Presidente Prudente,Presidente Prudente,Emilianópolis,3214,-51.483168,-21.831436
+393,Presidente Prudente,Presidente Prudente,Estrela do Norte,2766,-51.6606857,-22.4886301
+394,Presidente Prudente,Presidente Prudente,Euclides da Cunha Paulista,9371,-52.592779,-22.55452
+395,Presidente Prudente,Presidente Prudente,Indiana,4885,-51.2534615,-22.1748508
+396,Presidente Prudente,Presidente Prudente,João Ramalho,4523,-50.7677114,-22.2486157
+397,Presidente Prudente,Presidente Prudente,Marabá Paulista,5853,-51.9629504,-22.1069936
+398,Presidente Prudente,Presidente Prudente,Martinópolis,26461,-51.170949,-22.146153
+399,Presidente Prudente,Presidente Prudente,Mirante do Paranapanema,18259,-51.907143,-22.2925861
+400,Presidente Prudente,Presidente Prudente,Narandiba,4857,-51.5251755,-22.4080573
+401,Presidente Prudente,Presidente Prudente,Piquerobi,3692,-51.7296404,-21.8856652
+402,Presidente Prudente,Presidente Prudente,Pirapozinho,27527,-51.4998867,-22.2738742
+403,Presidente Prudente,Presidente Prudente,Presidente Bernardes,13106,-51.5543885,-22.0064236
+404,Presidente Prudente,Presidente Prudente,Presidente Epitácio,44200,-52.11114,-21.765074
+405,Presidente Prudente,Presidente Prudente,Presidente Prudente,228743,-51.3882528,-22.1225167
+406,Presidente Prudente,Presidente Prudente,Presidente Venceslau,39516,-51.8451047,-21.877116
+407,Presidente Prudente,Presidente Prudente,Rancharia,29707,-50.8922333,-22.2294981
+408,Presidente Prudente,Presidente Prudente,Regente Feijó,20261,-51.30545,-22.218131
+409,Presidente Prudente,Presidente Prudente,Ribeirão dos Índios,2225,-51.602158,-21.8378246
+410,Presidente Prudente,Presidente Prudente,Rosana,16643,-53.0552246,-22.5788641
+411,Presidente Prudente,Presidente Prudente,Sandovalina,4302,-51.763438,-22.4561104
+412,Presidente Prudente,Presidente Prudente,Santo Anastácio,20878,-51.652662,-21.974662
+413,Presidente Prudente,Presidente Prudente,Santo Expedito,3111,-51.3925315,-21.8508736
+414,Presidente Prudente,Presidente Prudente,Taciba,6285,-51.2888486,-22.3901284
+415,Presidente Prudente,Presidente Prudente,Tarabai,7468,-51.5628675,-22.3038726
+416,Presidente Prudente,Presidente Prudente,Teodoro Sampaio,23148,-52.1688134,-22.5297229
+417,Marília,Tupã,Arco-Íris,1791,-50.4668814,-21.7741308
+418,Marília,Tupã,Bastos,20953,-50.7317727,-21.9222474
+419,Marília,Tupã,Herculândia,9526,-50.3862746,-22.004508
+420,Marília,Tupã,Iacri,6321,-50.6892931,-21.8583385
+421,Marília,Tupã,Queiroz,3406,-50.2392786,-21.7991405
+422,Marília,Tupã,Quintana,6638,-50.308652,-22.0705513
+423,Marília,Tupã,Tupã,65524,-50.5135113,-21.9348631
+424,Marília,Marília,Álvaro de Carvalho,5227,-49.7194861,-22.0787992
+425,Marília,Marília,Alvinlândia,3222,-49.7643596,-22.4431852
+426,Marília,Marília,Echaporã,6102,-50.2037693,-22.4325855
+427,Marília,Marília,Fernão,1716,-49.5209504,-22.3595388
+428,Marília,Marília,Gália,6548,-49.5516228,-22.2936976
+429,Marília,Marília,Garça,44390,-49.6547994,-22.2125766
+430,Marília,Marília,Lupércio,4584,-49.8183516,-22.4145801
+431,Marília,Marília,Marília,238882,-49.95006,-22.217108
+432,Marília,Marília,Ocauçu,4289,-49.9226712,-22.4396255
+433,Marília,Marília,Oriente,6515,-50.0935645,-22.1525442
+434,Marília,Marília,Oscar Bressane,2603,-50.281118,-22.314874
+435,Marília,Marília,Pompeia,22014,-50.1720753,-22.1088293
+436,Marília,Marília,Vera Cruz,10843,-49.8243021,-22.2212638
+437,Assis,Assis,Assis,104386,-50.420623,-22.6620892
+438,Assis,Assis,Borá,837,-50.544407,-22.2701088
+439,Assis,Assis,Campos Novos Paulista,4965,-49.998726,-22.601952
+440,Assis,Assis,Cândido Mota,31280,-50.38924,-22.7434964
+441,Assis,Assis,Cruzália,2073,-50.7911037,-22.7434438
+442,Assis,Assis,Florínea,2676,-50.7268005,-22.9016004
+443,Assis,Assis,Ibirarema,7753,-50.0737669,-22.8138003
+444,Assis,Assis,Iepê,8159,-51.077881,-22.660165
+445,Assis,Assis,Lutécia,2649,-50.394007,-22.338378
+446,Assis,Assis,Maracaí,14002,-50.6670685,-22.6112679
+447,Assis,Assis,Nantes,3141,-51.2382255,-22.6191472
+448,Assis,Assis,Palmital,22221,-50.2198965,-22.786384
+449,Assis,Assis,Paraguaçu Paulista,45703,-50.5792099,-22.4203497
+450,Assis,Assis,Pedrinhas Paulista,3093,-50.792359,-22.815725
+451,Assis,Assis,Platina,3550,-50.2049642,-22.6328334
+452,Assis,Assis,Quatá,14109,-50.7003624,-22.2470977
+453,Assis,Assis,Tarumã,15000,-50.5783374,-22.7474736
+454,Assis,Ourinhos,Bernardino de Campos,11148,-49.4760724,-23.0140216
+455,Assis,Ourinhos,Canitar,5216,-49.7840632,-23.0066616
+456,Assis,Ourinhos,Chavantes,12418,-49.7071698,-23.0406405
+457,Assis,Ourinhos,Espírito Santo do Turvo,4829,-49.4295067,-22.6939723
+458,Assis,Ourinhos,Fartura,16036,-49.5109023,-23.390039
+459,Assis,Ourinhos,Ipaussu,14971,-49.6264306,-23.0544285
+460,Assis,Ourinhos,Manduri,9846,-49.317191,-23.0059018
+461,Assis,Ourinhos,Óleo,2496,-49.3408082,-22.9422754
+462,Assis,Ourinhos,Ourinhos,113542,-49.868204,-22.9777918
+463,Assis,Ourinhos,Piraju,29806,-49.3840493,-23.1897822
+464,Assis,Ourinhos,Ribeirão do Sul,4541,-49.9285258,-22.7861813
+465,Assis,Ourinhos,Salto Grande,9331,-49.9851484,-22.891426
+466,Assis,Ourinhos,Santa Cruz do Rio Pardo,47673,-49.6277378,-22.9060715
+467,Assis,Ourinhos,São Pedro do Turvo,7666,-49.742829,-22.745286
+468,Assis,Ourinhos,Sarutaiá,3638,-49.48391356925633,-23.259999999999998
+469,Assis,Ourinhos,Taguaí,13859,-49.4054454,-23.4534312
+470,Assis,Ourinhos,Tejupá,4532,-49.3772468,-23.3437238
+471,Assis,Ourinhos,Timburi,2658,-49.6045576,-23.2064076
+472,Itapetininga,Itapeva,Barão de Antonina,3469,-49.5632104,-23.6295651
+473,Itapetininga,Itapeva,Bom Sucesso de Itararé,3954,-49.1446207,-24.3190016
+474,Itapetininga,Itapeva,Buri,19878,-48.598924,-23.79849
+475,Itapetininga,Itapeva,Coronel Macedo,4681,-49.313234,-23.6304001
+476,Itapetininga,Itapeva,Itaberá,17556,-49.1398926,-23.8621345
+477,Itapetininga,Itapeva,Itapeva,94354,-48.8803886,-23.9849105
+478,Itapetininga,Itapeva,Itaporanga,15149,-49.4895934,-23.7066252
+479,Itapetininga,Itapeva,Itararé,50503,-49.3352464,-24.1145368
+480,Itapetininga,Itapeva,Nova Campina,9755,-48.9054041,-24.1225305
+481,Itapetininga,Itapeva,Riversul,5524,-49.4340558,-23.8303603
+482,Itapetininga,Itapeva,Taquarituba,23218,-49.2452541,-23.5337307
+483,Itapetininga,Itapeva,Taquarivaí,5852,-48.7005328,-23.9257829
+484,Itapetininga,Itapetininga,Alambari,6025,-47.897971,-23.550338
+485,Itapetininga,Itapetininga,Angatuba,25228,-48.4110675,-23.4938938
+486,Itapetininga,Itapetininga,Campina do Monte Alegre,6024,-48.4801876,-23.5935653
+487,Itapetininga,Itapetininga,Guareí,18520,-48.184685,-23.3718195
+488,Itapetininga,Itapetininga,Itapetininga,163901,-48.048326,-23.588607
+489,Itapetininga,Tatuí,Boituva,60997,-47.6738231,-23.2838893
+490,Itapetininga,Tatuí,Cerquilho,48949,-47.7433878,-23.1626556
+491,Itapetininga,Tatuí,Cesário Lange,18148,-47.954453,-23.226035
+492,Itapetininga,Tatuí,Laranjal Paulista,28516,-47.837549,-23.050564
+493,Itapetininga,Tatuí,Pereiras,8668,-47.9746014,-23.0743096
+494,Itapetininga,Tatuí,Porangaba,9925,-48.119464,-23.17615
+495,Itapetininga,Tatuí,Quadra,3804,-48.054657,-23.299332
+496,Itapetininga,Tatuí,Tatuí,121766,-47.8552438,-23.3514733
+497,Itapetininga,Tatuí,Torre de Pedra,2412,-48.1941034,-23.2478026
+498,Itapetininga,Capão Bonito,Apiaí,24374,-48.8461582,-24.5076527
+499,Itapetininga,Capão Bonito,Barra do Chapéu,5724,-49.023784,-24.472203
+500,Itapetininga,Capão Bonito,Capão Bonito,47138,-48.3489848,-24.0048759
+501,Itapetininga,Capão Bonito,Guapiara,17157,-48.529549,-24.18921
+502,Itapetininga,Capão Bonito,Iporanga,4218,-48.594028,-24.5843214
+503,Itapetininga,Capão Bonito,Itapirapuã Paulista,4241,-49.1703846,-24.5735083
+504,Itapetininga,Capão Bonito,Ribeira,3340,-49.0086372,-24.6577435
+505,Itapetininga,Capão Bonito,Ribeirão Branco,16444,-48.7678322,-24.2211495
+506,Itapetininga,Capão Bonito,Ribeirão Grande,7673,-48.367931,-24.10114
+507,Macro Metropolitana Paulista,Piedade,Ibiúna,78878,-47.2210116,-23.6548363
+508,Macro Metropolitana Paulista,Piedade,Piedade,55348,-47.4252319,-23.7074096
+509,Macro Metropolitana Paulista,Piedade,Pilar do Sul,29185,-47.7201865,-23.8121684
+510,Macro Metropolitana Paulista,Piedade,São Miguel Arcanjo,32931,-47.9963492,-23.8807771
+511,Macro Metropolitana Paulista,Piedade,Tapiraí,7807,-47.5067136,-23.9638345
+512,Macro Metropolitana Paulista,Sorocaba,Alumínio,18628,-47.2575256,-23.5203479
+513,Macro Metropolitana Paulista,Sorocaba,Araçariguama,22364,-47.061389,-23.438611
+514,Macro Metropolitana Paulista,Sorocaba,Araçoiaba da Serra,34146,-47.6168158,-23.5045367
+515,Macro Metropolitana Paulista,Sorocaba,Cabreúva,49707,-47.1324417,-23.3075813
+516,Macro Metropolitana Paulista,Sorocaba,Capela do Alto,20706,-47.7352309,-23.4704798
+517,Macro Metropolitana Paulista,Sorocaba,Iperó,37133,-47.687611,-23.3508977
+518,Macro Metropolitana Paulista,Sorocaba,Itu,173939,-47.298892,-23.2638828
+519,Macro Metropolitana Paulista,Sorocaba,Mairinque,47150,-47.1846323,-23.5401247
+520,Macro Metropolitana Paulista,Sorocaba,Porto Feliz,53098,-47.5190176,-23.2137274
+521,Macro Metropolitana Paulista,Sorocaba,Salto,118663,-47.2913682,-23.1989983
+522,Macro Metropolitana Paulista,Sorocaba,Salto de Pirapora,45422,-47.5729991,-23.6492626
+523,Macro Metropolitana Paulista,Sorocaba,São Roque,91016,-47.1355473,-23.5304843
+524,Macro Metropolitana Paulista,Sorocaba,Sarapuí,10285,-47.824863,-23.63974
+525,Macro Metropolitana Paulista,Sorocaba,Sorocaba,679378,-47.458056,-23.501667
+526,Macro Metropolitana Paulista,Sorocaba,Votorantim,122480,-47.4377778,-23.5466667
+527,Macro Metropolitana Paulista,Jundiaí,Campo Limpo Paulista,84650,-46.788919,-23.207791
+528,Macro Metropolitana Paulista,Jundiaí,Itupeva,61252,-47.0580347,-23.1531055
+529,Macro Metropolitana Paulista,Jundiaí,Jundiaí,418962,-46.8845122,-23.1887866
+530,Macro Metropolitana Paulista,Jundiaí,Louveira,48885,-46.95056,-23.08639
+531,Macro Metropolitana Paulista,Jundiaí,Várzea Paulista,121838,-46.8283333,-23.2113889
+532,Macro Metropolitana Paulista,Bragança Paulista,Atibaia,142761,-46.5547861,-23.1177393
+533,Macro Metropolitana Paulista,Bragança Paulista,Bom Jesus dos Perdões,25448,-46.4648052,-23.1353864
+534,Macro Metropolitana Paulista,Bragança Paulista,Bragança Paulista,168668,-46.5418586,-22.9520235
+535,Macro Metropolitana Paulista,Bragança Paulista,Itatiba,120858,-46.8412042,-22.9965861
+536,Macro Metropolitana Paulista,Bragança Paulista,Jarinu,30044,-46.7148636,-23.0949584
+537,Macro Metropolitana Paulista,Bragança Paulista,Joanópolis,13220,-46.275208,-22.930004
+538,Macro Metropolitana Paulista,Bragança Paulista,Morungaba,13622,-46.79167,-22.88
+539,Macro Metropolitana Paulista,Bragança Paulista,Nazaré Paulista,18524,-46.3992986,-23.1819309
+540,Macro Metropolitana Paulista,Bragança Paulista,Piracaia,27303,-46.359374,-23.052545
+541,Macro Metropolitana Paulista,Bragança Paulista,Tuiuti,6894,-46.6937627,-22.819324
+542,Macro Metropolitana Paulista,Bragança Paulista,Vargem,10537,-46.4145366,-22.8902379
+543,Vale do Paraíba Paulista,Campos do Jordão,Campos do Jordão,52088,-45.5912829,-22.7395263
+544,Vale do Paraíba Paulista,Campos do Jordão,Monteiro Lobato,4653,-45.8383284,-22.9546503
+545,Vale do Paraíba Paulista,Campos do Jordão,Santo Antônio do Pinhal,6811,-45.6674063,-22.8250504
+546,Vale do Paraíba Paulista,Campos do Jordão,São Bento do Sapucaí,10878,-45.7329767,-22.6884605
+547,Vale do Paraíba Paulista,São José dos Campos,Caçapava,94263,-45.707645,-23.099204
+548,Vale do Paraíba Paulista,São José dos Campos,Igaratá,9534,-46.156934,-23.2063475
+549,Vale do Paraíba Paulista,São José dos Campos,Jacareí,233662,-45.96583,-23.30528
+550,Vale do Paraíba Paulista,São José dos Campos,Pindamonhangaba,168328,-45.462938,-22.9340165
+551,Vale do Paraíba Paulista,São José dos Campos,Santa Branca,14788,-45.8842294,-23.3974353
+552,Vale do Paraíba Paulista,São José dos Campos,São José dos Campos,721944,-45.8872969,-23.1805011
+553,Vale do Paraíba Paulista,São José dos Campos,Tremembé,47185,-45.547526,-22.95714
+554,Vale do Paraíba Paulista,Guaratinguetá,Aparecida,36157,-45.2340924,-22.851552
+555,Vale do Paraíba Paulista,Guaratinguetá,Cachoeira Paulista,33327,-45.015384,-22.666498
+556,Vale do Paraíba Paulista,Guaratinguetá,Canas,5138,-45.0526508,-22.7029347
+557,Vale do Paraíba Paulista,Guaratinguetá,Cruzeiro,82238,-44.9642044,-22.5783685
+558,Vale do Paraíba Paulista,Guaratinguetá,Guaratinguetá,121798,-45.1908926,-22.8057839
+559,Vale do Paraíba Paulista,Guaratinguetá,Lavrinhas,7260,-44.902359,-22.570047
+560,Vale do Paraíba Paulista,Guaratinguetá,Lorena,88706,-45.1070876,-22.7367652
+561,Vale do Paraíba Paulista,Guaratinguetá,Piquete,13657,-45.1777096,-22.6138451
+562,Vale do Paraíba Paulista,Guaratinguetá,Potim,24643,-45.2565239,-22.8377227
+563,Vale do Paraíba Paulista,Guaratinguetá,Queluz,13420,-44.7752585,-22.5371881
+564,Vale do Paraíba Paulista,Guaratinguetá,Roseira,10712,-45.3100121,-22.9012387
+565,Vale do Paraíba Paulista,Bananal,Arapeí,2469,-44.4477778,-22.6738889
+566,Vale do Paraíba Paulista,Bananal,Areias,3886,-44.6975127,-22.5800929
+567,Vale do Paraíba Paulista,Bananal,Bananal,10945,-44.3221095,-22.6828195
+568,Vale do Paraíba Paulista,Bananal,São José do Barreiro,4147,-44.5805246,-22.6452376
+569,Vale do Paraíba Paulista,Bananal,Silveiras,6302,-44.852157,-22.66384
+570,Vale do Paraíba Paulista,Paraibuna/Paraitinga,Cunha,21547,-44.9567436,-23.07753
+571,Vale do Paraíba Paulista,Paraibuna/Paraitinga,Jambeiro,6602,-45.6919926,-23.2556416
+572,Vale do Paraíba Paulista,Paraibuna/Paraitinga,Lagoinha,4896,-45.1903825,-23.0898337
+573,Vale do Paraíba Paulista,Paraibuna/Paraitinga,Natividade da Serra,6661,-45.4438173,-23.3783786
+574,Vale do Paraíba Paulista,Paraibuna/Paraitinga,Paraibuna,18222,-45.6626797,-23.3864203
+575,Vale do Paraíba Paulista,Paraibuna/Paraitinga,Redenção da Serra,3851,-45.5341264,-23.2805175
+576,Vale do Paraíba Paulista,Paraibuna/Paraitinga,São Luiz do Paraitinga,10687,-45.3108724,-23.2220188
+577,Vale do Paraíba Paulista,Caraguatatuba,Caraguatatuba,121532,-45.41306,-23.62028
+578,Vale do Paraíba Paulista,Caraguatatuba,Ilhabela,34970,-45.368685,-23.816628
+579,Vale do Paraíba Paulista,Caraguatatuba,São Sebastião,88980,-45.4070527,-23.8027866
+580,Vale do Paraíba Paulista,Caraguatatuba,Ubatuba,90799,-45.083415,-23.433162
+581,Litoral Sul Paulista,Registro,Barra do Turvo,7659,-48.5056942,-24.756421
+582,Litoral Sul Paulista,Registro,Cajati,28549,-48.1077914,-24.7272376
+583,Litoral Sul Paulista,Registro,Cananéia,12540,-47.9315628,-25.0104609
+584,Litoral Sul Paulista,Registro,Eldorado,15494,-48.1093489,-24.522583
+585,Litoral Sul Paulista,Registro,Iguape,30857,-47.5563733,-24.7042692
+586,Litoral Sul Paulista,Registro,Ilha Comprida,11166,-47.5525529,-24.7445292
+587,Litoral Sul Paulista,Registro,Jacupiranga,17866,-48.0060639,-24.703773
+588,Litoral Sul Paulista,Registro,Juquiá,18812,-47.6355618,-24.3172209
+589,Litoral Sul Paulista,Registro,Miracatu,19779,-47.4535128,-24.2839078
+590,Litoral Sul Paulista,Registro,Pariquera-Açu,19648,-47.8802361,-24.7146891
+591,Litoral Sul Paulista,Registro,Registro,56322,-47.844895,-24.497942
+592,Litoral Sul Paulista,Registro,Sete Barras,12832,-47.9265798,-24.3878438
+593,Litoral Sul Paulista,Itanhaém,Itanhaém,101816,-46.7921572,-24.1848847
+594,Litoral Sul Paulista,Itanhaém,Itariri,17436,-47.176151,-24.2900711
+595,Litoral Sul Paulista,Itanhaém,Mongaguá,56702,-46.6234361,-24.0959454
+596,Litoral Sul Paulista,Itanhaém,Pedro de Toledo,11331,-47.23393,-24.2769071
+597,Litoral Sul Paulista,Itanhaém,Peruíbe,68284,-46.9977452,-24.3218105
+598,Metropolitana de São Paulo,Osasco,Barueri,274182,-46.8764612,-23.5112184
+599,Metropolitana de São Paulo,Osasco,Cajamar,76801,-46.8769444,-23.3561111
+600,Metropolitana de São Paulo,Osasco,Carapicuíba,400927,-46.8406808,-23.5234673
+601,Metropolitana de São Paulo,Osasco,Itapevi,237700,-46.933889,-23.54888
+602,Metropolitana de São Paulo,Osasco,Jandira,124937,-46.9019554,-23.5282044
+603,Metropolitana de São Paulo,Osasco,Osasco,698418,-46.7916801,-23.5324859
+604,Metropolitana de São Paulo,Osasco,Pirapora do Bom Jesus,18895,-47.0025661,-23.3972146
+605,Metropolitana de São Paulo,Osasco,Santana de Parnaíba,139447,-46.9167722,-23.4446715
+606,Metropolitana de São Paulo,Franco da Rocha,Caieiras,101470,-46.7484765,-23.3644621
+607,Metropolitana de São Paulo,Franco da Rocha,Francisco Morato,175844,-46.7448996,-23.2817308
+608,Metropolitana de São Paulo,Franco da Rocha,Franco da Rocha,154489,-46.724446,-23.3328038
+609,Metropolitana de São Paulo,Franco da Rocha,Mairiporã,100179,-46.5866667,-23.3186111
+610,Metropolitana de São Paulo,Guarulhos,Arujá,89824,-46.3175449,-23.396266
+611,Metropolitana de São Paulo,Guarulhos,Guarulhos,1379182,-46.524459,-23.4430602
+612,Metropolitana de São Paulo,Guarulhos,Santa Isabel,57386,-46.2271903,-23.3194222
+613,Metropolitana de São Paulo,Itapecerica da Serra,Cotia,249210,-46.918889,-23.603889
+614,Metropolitana de São Paulo,Itapecerica da Serra,Embu das Artes,273726,-46.8528497,-23.6495294
+615,Metropolitana de São Paulo,Itapecerica da Serra,Embu-Guaçu,69385,-46.8156204,-23.8317997
+616,Metropolitana de São Paulo,Itapecerica da Serra,Itapecerica da Serra,175693,-46.8492435,-23.7176303
+617,Metropolitana de São Paulo,Itapecerica da Serra,Juquitiba,31444,-47.0714217,-23.932346
+618,Metropolitana de São Paulo,Itapecerica da Serra,São Lourenço da Serra,15825,-46.9440587,-23.8535923
+619,Metropolitana de São Paulo,Itapecerica da Serra,Taboão da Serra,289664,-46.7790539,-23.6121912
+620,Metropolitana de São Paulo,Itapecerica da Serra,Vargem Grande Paulista,52597,-47.022038,-23.599338
+621,Metropolitana de São Paulo,São Paulo,Diadema,423884,-46.62052,-23.681347
+622,Metropolitana de São Paulo,São Paulo,Mauá,472912,-46.4616922,-23.6669527
+623,Metropolitana de São Paulo,São Paulo,Ribeirão Pires,123393,-46.4150871,-23.7129388
+624,Metropolitana de São Paulo,São Paulo,Rio Grande da Serra,50846,-46.397084,-23.743724
+625,Metropolitana de São Paulo,São Paulo,Santo André,718773,-46.5322504,-23.6573395
+626,Metropolitana de São Paulo,São Paulo,São Bernardo do Campo,838936,-46.5506747,-23.7080345
+627,Metropolitana de São Paulo,São Paulo,São Caetano do Sul,161127,-46.5688323,-23.6195923
+628,Metropolitana de São Paulo,São Paulo,São Paulo,12252023,-46.6333824,-23.5506507
+629,Metropolitana de São Paulo,Mogi das Cruzes,Biritiba Mirim,32598,-46.0407456,-23.5697765
+630,Metropolitana de São Paulo,Mogi das Cruzes,Ferraz de Vasconcelos,194276,-46.37097,-23.541056
+631,Metropolitana de São Paulo,Mogi das Cruzes,Guararema,29798,-46.0379249,-23.4133724
+632,Metropolitana de São Paulo,Mogi das Cruzes,Itaquaquecetuba,370821,-46.3514033,-23.4754492
+633,Metropolitana de São Paulo,Mogi das Cruzes,Mogi das Cruzes,445842,-46.1926671,-23.5234284
+634,Metropolitana de São Paulo,Mogi das Cruzes,Poá,117452,-46.3445663,-23.5249082
+635,Metropolitana de São Paulo,Mogi das Cruzes,Salesópolis,17139,-45.84653,-23.528805
+636,Metropolitana de São Paulo,Mogi das Cruzes,Suzano,297637,-46.3108391,-23.5427842
+637,Metropolitana de São Paulo,Santos,Bertioga,63249,-46.139586,-23.848568
+638,Metropolitana de São Paulo,Santos,Cubatão,130705,-46.4241869,-23.8857982
+639,Metropolitana de São Paulo,Santos,Guarujá,320459,-46.2558332,-23.9927768
+640,Metropolitana de São Paulo,Santos,Praia Grande,325073,-46.402778,-24.005833
+641,Metropolitana de São Paulo,Santos,Santos,433311,-46.333889,-23.960833
+642,Metropolitana de São Paulo,Santos,São Vicente,365798,-46.3847024,-23.9603686
